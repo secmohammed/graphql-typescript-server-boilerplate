@@ -30,17 +30,12 @@ createdb graphql-ts-server-boilerplate
 You can start the server with `yarn start` then navigate to `http://localhost:4000` to use GraphQL Playground.
 
 ## Features
-
 * Register - Send confirmation email
 * Login
-* Forgot Password
-* Logout  
-* Cookies
+* Forgot Password  
+* JWT
 * Authentication middleware
 * Rate limiting
 * Locking accounts
-* Testing (probably Jest)
+* Tested using Jest.
 
-## Watch how it was made
-
-Playlist: https://www.youtube.com/playlist?list=PLN3n1USn4xlky9uj6wOhfsPez7KZOqm2V
